@@ -1,10 +1,10 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 
+###  DATE: 20/08/2026
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: HEMA SREE S 
+###  ROLL NO : 212224040112
+###  DEPARTMENT: B.E CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
